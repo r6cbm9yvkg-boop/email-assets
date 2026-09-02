@@ -1,0 +1,2 @@
+# email-assets
+JPEGs, PNG.
